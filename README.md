@@ -1,12 +1,14 @@
  
 <h1 align="center">Hi 👋, I'm Abdirahman Mohamed Farah</h1>
 <h3 align="center">A passionate front-end web developer from Somalia</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayidmohamedy&label=Profile%20views&color=0e75b6&style=flat" alt="zayidmohamedy" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buushe&label=Profile%20views&color=0e75b6&style=flat" alt="buushe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Abdurah98212567" target="blank"><img src="https://img.shields.io/twitter/follow/Buushe?logo=twitter&style=for-the-badge" alt="Buushe" /></a> </p>
 
-- 🔭 I’m currently studying at [Alx software engineering]( https://github.com/stars/Buushe/ Jionor software engineer)
+- 🔭 I’m currently studying at [Alx software engineering]( https://github.com/stars/Buushe/lists/Jionor software engineer)
 
 - 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
 - 📫 How to reach me **aadangoranyo@gmail.com**
@@ -15,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Abdurah98212567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zayidmohamedy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdirahman-mohamed-27a98b197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zayidmohamedy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdirahman-mohamed-27a98b197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buushe" height="30" width="40" /></a>
 
  
 </p>

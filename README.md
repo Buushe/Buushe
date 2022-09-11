@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Abdurah98212567" target="blank"><img src="https://img.shields.io/twitter/follow/Buushe?logo=twitter&style=for-the-badge" alt="Buushe" /></a> </p>
 
-- 🔭 I’m currently studying at [Alx software engineering]( https://github.com/stars/Buushe/lists/Jionor software engineer)
+- 🔭 I’m currently studying at [Alx software engineering]( https://github.com/stars/Buushe/lists/ Jionor software engineer)
 
 - 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
 - 📫 How to reach me **aadangoranyo@gmail.com**
